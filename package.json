@@ -1,0 +1,7 @@
+{
+  "description":"Paper trading bot for the Pump.fun Replay Sprint (agent-fun/replay/v2): sniper-family entries, ride winners with a trailing stop.",
+  "license":"MIT",
+  "name":"pump-fun-replay-sprint-paper-bot",
+  "private":true,
+  "type":"module"
+}
